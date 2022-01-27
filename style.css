@@ -45,7 +45,7 @@ body::after
 	position: absolute;
 	z-index: 3;
 	/* background-color: cadetblue; */
-	backdrop-filter: blur(100px);
+/* 	backdrop-filter: blur(100px); */
 	border-radius: 5px;
 	width: 97%;
 	height: 95%;
